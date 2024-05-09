@@ -1,0 +1,56 @@
+[
+  
+  
+ 
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+     
+      "code": "https://github.com/shivtej123/insta_clone"
+    }
+  },
+  {
+    "name": "Enterprise Recruiter Platform",
+    "desc": "Platform for the recruiters to hire candidates.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+     
+      "code": "https://github.com/patilchetan21/Enterprises-Recruters-Platform/tree/master/backend"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+    
+      "code": "https://github.com/shivtej123/resume_generator"
+    }
+  },
+  {
+    "name": "Farm Agri",
+    "desc": "",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/shivtej123/farmagri_project"
+    }
+  },
+  
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      
+      "code": "https://github.com/shivtej123/javascript_project"
+    }
+  }
+]
